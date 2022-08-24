@@ -7,7 +7,7 @@ git clone https://github.com/xlccccc/xlbot
 ```
 Put it in the same folder, fill in relevant contents according to the comments, and run server.py
 
-If your go cqhttp configuration is normal, the robot can run perfectly
+If your go-cqhttp configuration is normal, the robot can run perfectly
 
 # robot /help menu
 Enter /help to open this menu
