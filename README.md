@@ -3,7 +3,7 @@ bot based on go-cqhttp
 
 # start
 ```
-git clone 
+git clone https://github.com/xlccccc/xlbot
 ```
 Put it in the same folder, fill in relevant contents according to the comments, and run server.py
 
