@@ -10,6 +10,7 @@ Put it in the same folder, fill in relevant contents according to the comments, 
 If your go cqhttp configuration is normal, the robot can run perfectly
 
 # robot /help menu
+输入/help打开本菜单
 > 1.随机歌曲：
 @我并输入听歌随机推送歌曲
 
